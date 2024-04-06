@@ -1,4 +1,4 @@
-name: Recovery Build
+name: Recovery Build(VIVO_S10)
 
 on:
   workflow_dispatch:
