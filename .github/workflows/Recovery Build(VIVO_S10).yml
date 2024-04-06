@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'main'
+        default: 'full_k6891v1_64-user-11-RP1A.200720.012-eng.compil.20211110.112647-release-keys'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_PD2121'
+        default: 'omni_PD2121'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
